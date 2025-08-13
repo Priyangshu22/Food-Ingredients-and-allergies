@@ -66,3 +66,5 @@ python train_model.py
 python predict.py --image test.jpg --allergy "peanuts,milk"
 
 
+<img src="images/screenshot1" width="500">
+![Homepage Screenshot](/Screenshot 2025-08-14 002820.png")
